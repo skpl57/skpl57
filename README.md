@@ -1,7 +1,7 @@
 ## Hi there 👋
-- ✈
-- 🏙 🏙
-- 💥💥
+- ༼ つ ◕_◕ ༽つ
+  
+- (☞ﾟヮﾟ)☞
 <!--
 **skpl57/skpl57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
