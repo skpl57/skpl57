@@ -56,7 +56,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skpl57&theme=black-ice" alt="skpl57"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skpl57&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
