@@ -1,18 +1,58 @@
-## Hi there 👋
-- ༼ つ ◕_◕ ༽つ
-  
-- (☞ﾟヮﾟ)☞
-<!--
-**skpl57/skpl57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  # Hi 👋, I'm Skippe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I go to high school (still) :/
+
+  ### 🚀 Languages and Tools I Use:
+
+
+  <table align="center">
+  <tr>
+      <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a></td>
+      <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></td>
+    <td align="center">
+          <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+            <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+          </a>
+        </td>
+    <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"alt="blender" width="42" height="42" />
+          </a>
+        </td>
+        <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" />
+          </a>
+        </td>
+    </tr>
+    <tr align="center">
+     <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a></td>
+        <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="42" height="42" />
+          </a>
+        </td>
+        <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="42" height="42" />
+          </a>
+        </td>
+        <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="42" height="42" />
+          </a>
+        </td>
+        <td align="center">
+          <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="blender" width="42" height="42" />
+          </a>
+        </td>
+      </tr>
+  </table>
+</div>
+
+  <br />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skpl57&theme=black-ice" alt="skpl57"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=skpl57&label=Profile%20views&color=0e75b6&style=flat" alt="skpl57" /> </p>
